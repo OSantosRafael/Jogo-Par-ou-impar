@@ -12,7 +12,7 @@ Jogo em Python do clássico "Par ou Ímpar", jogado contra o computador. O jogad
 
 1. O jogador escolhe **par** ou **ímpar**.
 2. O jogador digita um número.
-3. O computador sorteia aleatoriamente um número entre 1 e 11.
+3. O computador sorteia aleatoriamente um número entre 1 e 10.
 4. Os dois números são somados e o resultado é mostrado.
 5. Se o resultado bater com a escolha do jogador (par/ímpar), ele vence a rodada e o jogo continua; caso contrário, o jogador perde e o jogo termina.
 6. Ao final, é exibido o total de vitórias consecutivas.
