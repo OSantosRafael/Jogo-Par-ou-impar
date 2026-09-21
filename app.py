@@ -6,7 +6,7 @@ while True:
     while escolha not in 'par' and escolha not in 'impar':
         escolha = str(input('Par ou Impar? ')).strip().lower()
     n = int(input('Digite um número: '))
-    c = randint(1, 11)
+    c = randint(1, 10)
     r = n + c
     print(f'Resultado: {r}', end=' - ')
     print('Par!' if r % 2 == 0 else 'Impar!')
