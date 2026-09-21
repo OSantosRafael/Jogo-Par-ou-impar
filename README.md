@@ -6,7 +6,7 @@
 
 ## 📋 Sobre o projeto
 
-Jogo em Python do clássico "Par ou Ímpar", jogado contra o computador. O jogador escolhe "par" ou "ímpar", digita um número e o computador sorteia outro número aleatório entre 1 e 11. A soma dos dois números define o resultado da rodada. O jogo continua enquanto o jogador for vencendo e contabiliza as vitórias consecutivas.
+Jogo em Python do clássico "Par ou Ímpar", jogado contra o computador. O jogador escolhe "par" ou "ímpar", digita um número e o computador sorteia outro número aleatório entre 1 e 10. A soma dos dois números define o resultado da rodada. O jogo continua enquanto o jogador for vencendo e contabiliza as vitórias consecutivas.
 
 ## ⚙️ Como funciona
 
